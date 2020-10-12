@@ -1,0 +1,21 @@
+<RCC>
+  <qresource prefix="Header">
+    <file>img/无背景180_79.png</file>
+    <file>img/返回.png</file>
+    <file>img/指纹解锁.png</file>
+    <file>img/background.gif</file>
+    <file>img/设置 (2).png</file>
+    <file>img/最小化3.png</file>
+    <file>img/关  闭.png</file>
+    <file>img/机器人头像.png</file>
+    <file>img/设置 (1).png</file>
+    <file>img/设置.png</file>
+    <file>img/关闭.png</file>
+    <file>img/最小化 (1).png</file>
+    <file>img/login.gif</file>
+    <file>img/锁.png</file>
+    <file>img/人员-实.png</file>
+    <file>img/键盘.png</file>
+    <file>img/下.png</file>
+  </qresource>
+</RCC>
