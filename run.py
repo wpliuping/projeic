@@ -33,6 +33,7 @@ class hyText(QMainWindow,Ui_MainWindow):
 if __name__ == '__main__':
             app = QApplication(sys.argv)
             hy = hyText()
+            hy.showFullScreen()
             hy.show()
             print("启动成功")
             sys.exit(app.exec_())
