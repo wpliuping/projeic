@@ -1,6 +1,6 @@
 __author__ = 'Xinrooy'
 # -*- coding: utf-8 -*-
-from TY_RW_Files import *
+
 import pymssql
 from selenium.webdriver import Chrome
 from selenium import webdriver
